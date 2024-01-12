@@ -120,6 +120,7 @@ To keep this **README.md** file concise & straightforward I decided to make an o
 | An active network connection. | An active network connection. |
 
 
+
 # ✅ Destination Home Beta Enrollment Process:
 
 ![CENTRAL PLAZA BETA ADD](https://user-images.githubusercontent.com/67494727/187321907-d5a3c9d0-ebca-4e3b-99f2-aa261f0ad854.png)
