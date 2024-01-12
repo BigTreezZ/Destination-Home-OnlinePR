@@ -119,42 +119,6 @@ To keep this **README.md** file concise & straightforward I decided to make an o
 | The latest **PlayStation®Home** Online client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). | The latest custom RPCS3 **PlayStation®Home** Client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). |
 | An active network connection. | An active network connection. |
 
- 
-# 📣 Current Status of Destination Home Online Revival Servers/Services:
-
-  <p align="center">
-  <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20II-orange"></a>
-    
-![NPIA00005_screenshot_2022_05_11_21_59_37](https://user-images.githubusercontent.com/67494727/174608070-8d03ac8c-7429-4df1-9e5e-cf1c50c0c042.png)
-  
- ℹ️ | Currently we are in our **Closed-Beta phase**. During this time we are working on fixing the following network services & functions within Home's intricate ecosystem.
-:---: | :---  
-
-- [x] Adding additional security services to protect our future database, as we know Home had many exploits during its time on the **PLAYSTATION®3**.
-- [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.90 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
-- [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
-- [ ] Localization for all objects & all public/private scenes.
-- [x] Stress testing our current network infrastructure. 
-    
-Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here is the following development roadmap/pipeline that we are adhering to.
-    
-- **1.** *Closed Alpha* - Internal testing by **Testers/Helpers** and **Developers**.
-    
-- **2.** *Closed Beta* [**Session 1**] - Testing by **Cache Donators** & **Nitro Boosters**.
-    
-    - **Closed Beta** access will be expanded in **four** incremental phases:
-    
-       - Phase I: 20 people.
-       - Phase II: 50 people.
-       - Phase III: 100 people.
-       - Phase IV: All donators/boosters.
-    
-- **3.** *Closed Beta* [**Session 2**] -- As above but with improvements, fixes and more content added to our client.
-- **4.** *Open Beta* -- Early Access available to **all members** of the [Discord](https://discord.gg/QguSBT3).
-- **5.** *Official Release*  
-    
-⚠️ | Note there is no *ETA* for each stage! Developers work in their **free time** and any real-life responsibilities e.g., *college*, *work*, *family matters* will dramatically affect progress; please be patient.
-:---: | :---   
 
 # ✅ Destination Home Beta Enrollment Process:
 
@@ -215,6 +179,42 @@ This version of Online has been *custom-tailored* for this testing and is *NOT* 
 </p>
 
 ![officially enrolled](https://user-images.githubusercontent.com/67494727/187340876-0818dc75-e345-4d8e-a15f-15be28a2379c.png)
+ 
+# 📣 Current Status of Destination Home Online Revival Servers/Services:
+
+  <p align="center">
+  <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20II-orange"></a>
+    
+![NPIA00005_screenshot_2022_05_11_21_59_37](https://user-images.githubusercontent.com/67494727/174608070-8d03ac8c-7429-4df1-9e5e-cf1c50c0c042.png)
+  
+ ℹ️ | Currently we are in our **Closed-Beta phase**. During this time we are working on fixing the following network services & functions within Home's intricate ecosystem.
+:---: | :---  
+
+- [x] Adding additional security services to protect our future database, as we know Home had many exploits during its time on the **PLAYSTATION®3**.
+- [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.90 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
+- [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
+- [ ] Localization for all objects & all public/private scenes.
+- [x] Stress testing our current network infrastructure. 
+    
+Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here is the following development roadmap/pipeline that we are adhering to.
+    
+- **1.** *Closed Alpha* - Internal testing by **Testers/Helpers** and **Developers**.
+    
+- **2.** *Closed Beta* [**Session 1**] - Testing by **Cache Donators** & **Nitro Boosters**.
+    
+    - **Closed Beta** access will be expanded in **four** incremental phases:
+    
+       - Phase I: 20 people.
+       - Phase II: 50 people.
+       - Phase III: 100 people.
+       - Phase IV: All donators/boosters.
+    
+- **3.** *Closed Beta* [**Session 2**] -- As above but with improvements, fixes and more content added to our client.
+- **4.** *Open Beta* -- Early Access available to **all members** of the [Discord](https://discord.gg/QguSBT3).
+- **5.** *Official Release*  
+    
+⚠️ | Note there is no *ETA* for each stage! Developers work in their **free time** and any real-life responsibilities e.g., *college*, *work*, *family matters* will dramatically affect progress; please be patient.
+:---: | :---   
 
 # 🚧 Destination Home Development Roadmap:
 
