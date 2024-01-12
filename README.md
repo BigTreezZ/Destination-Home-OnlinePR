@@ -2,7 +2,7 @@
 # X = For Removal
 # ? = Unsure
 
-# <h1 align="center">**Destination Home Online × Welcome Back to PlayStation®Home!**</h1>
+# <h1 align="center">**Welcome Back to PlayStation®Home!**</h1>
 <p align="center">	
 <img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20II-orange">
 </a>
