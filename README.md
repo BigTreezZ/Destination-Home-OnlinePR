@@ -1,3 +1,7 @@
+# LEGEND:
+# X = For Removal
+# ? = Unsure
+
 # <h1 align="center">**Destination Home Online × Welcome Back to PlayStation®Home!**</h1>
 <p align="center">	
 <img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20II-orange">
@@ -765,13 +769,13 @@ We are not affiliated with **Sony Interactive Entertainment (SIE)** or any other
 
 **All rights are reserved by Sony Interactive Entertainment Europe Limited, as well as the respective third-party companies responsible for implementing content into PlayStation®Home. Destination Home is working on PlayStation®Home as the adaptation of publicly leaked software, the usage of this software falling under abandonware due to the lack of copyright enforcement involving the tools. The online section of PlayStation®Home is protected by the laws implied by the Digital Millennium Copyright Act 17 U.S. Code § 1201 for the purpose of preservation, education, and public viewing as a museum effort. That the team's focus is to reproduce the functionality once accessible and hosted by Sony, PlayStation®Home. Tools that are provided to us will be to our best ability given the utmost protection unless stated otherwise by the provider. Our focus is the protection of Sony copyright and intellectual property while following the goal of reproduction of online functionality, and do not claim any of this as our own.**
 
-# What's PlayStation Home?
+# ? What's PlayStation Home?
   
 ![NPIA00005_screenshot_2022_05_23_12_18_22](https://user-images.githubusercontent.com/67494727/169914462-a9a0afb6-9f39-4f5e-be54-4e5967985650.png)
     
 **PlayStation®Home** is a 3D social gaming community that allows **PLAYSTATION®3** users to meet, chat, plan, and launch into games together. You can create your own custom avatar, decorate your personal apartment, play mini-games, shop, watch videos, attend special events, and much more - it's all part of **PlayStation®Home**.
 
-# First time playing PlayStation®Home? Check out the official Help System Guide.
+# ? First time playing PlayStation®Home? Check out the official Help System Guide.
 
 ![NPIA00005_screenshot_2022_07_02_07_11_32](https://user-images.githubusercontent.com/67494727/176998274-cb37391e-e5fb-498e-aa93-16ac9b2f2014.png)
 
@@ -976,7 +980,7 @@ We are not affiliated with **Sony Interactive Entertainment (SIE)** or any other
 </p>
 </details>
 
-# Multilingual Support for this write-up | WIP 🚧:
+# ? Multilingual Support for this write-up | WIP 🚧:
   
  ![NPIA00005_screenshot_2022_03_20_18_47_40](https://user-images.githubusercontent.com/67494727/168452608-85bec567-b692-4086-a731-80d04503042c.png)
   
@@ -990,12 +994,12 @@ We are not affiliated with **Sony Interactive Entertainment (SIE)** or any other
  ℹ️ | For users who want to translate this **README** page in order to support our ever-developing community you can contact me via [Twitter](https://twitter.com/NagatoRevenge) for more information! 
 :---: | :---  
 
-# Brief Synopsis:
+# X Brief Synopsis:
 
 Welcome to the official guide on how users can re-experience [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [**Github**](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager [**Figment**](https://github.com/PSHFigment) will post the latest news in regards to new Home updates. For all things related to **PlayStation®Home**, we have created a comprehensive composition [Wiki system](https://github.com/DestinationHome/Destination-Home-Online/wiki) for this repo, to document how users can access our services.
 
 ![Destination Home Online Official Wiki](https://user-images.githubusercontent.com/67494727/167228438-dc27564a-05d6-49ae-814a-936b6708f863.png)
 
-# <h1 align="center">🌐 Destination Home Public DNS Setting: **52.86.120.101**</h1>
+# <h1 align="center">🌐 ? Destination Home Public DNS Setting: **52.86.120.101**</h1>
 
 ![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
