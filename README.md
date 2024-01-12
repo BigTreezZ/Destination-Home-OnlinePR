@@ -38,6 +38,87 @@
             alt="PlayStation Home Cache Extraction Guide"></a>
   
 We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your **PlayStation®Home** cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
+
+<h1 align="center">📖 Table of Contents | Destination Home Online Wiki 📖</h1>
+
+<p align="center">
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A0-%7C-Disclaimers">
+        <img src="https://img.shields.io/badge/-Disclaimers-ff0018"
+            alt="Diclaimers"></a>
+       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-%7C-Destination-Home-Online-Community-Code-of-Conduct">
+        <img src="https://img.shields.io/badge/-Destination%20Home%20Online%20Community%20Code%20of%20Conduct-21cb69"
+            alt="Destination Home Online Community Code of Conduct"></a>
+     <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A2-%7C-Destination-Home-Online-FAQ-(Frequently-Asked-Questions)">
+        <img src="https://img.shields.io/badge/-Destination%20Home%20Online%20FAQ-0995d3"
+            alt="Destination Home Online FAQ"></a>
+    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A3-%7C-Important-terminologies">
+        <img src="https://img.shields.io/badge/-Important%20Terminologies-1d5dd2"
+            alt="Important terminologies!"></a>
+   <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A4-%7C-Working-Services-&-Features">
+        <img src="https://img.shields.io/badge/%E2%9C%94-Working%20Services%20%26%20Features-lightgrey"
+            alt="Working Services & Functions"></a>
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A5-%7C-Missing-Services-&-Functions">
+        <img src="https://img.shields.io/badge/-Missing%20Services%2FFunctions-e99c23"
+            alt="Missing services/functions"></a>
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/edit/main/README.md#-playstationhome-rewards-database">
+        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Rewards%20Database-%23f4c430"
+            alt="PlayStation®Home Rewards Database"></a>
+        <a href="https://github.com/DestinationHome/Destination-Home-Online#%EF%B8%8F-playstationhome-minigame-compatibility-list">
+        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Minigame%20Compatibility%20List%20-fcf414"
+            alt="PlayStation®Home Minigame Compatibility List"></a>
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0%E2%85%A0%E2%85%A0-%7C-PlayStation%C2%AEHome-Public-Spaces">
+        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Public%20Space%20List-750de0"
+            alt="PlayStation®Home Public Space List"></a>
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A3-%7C-PlayStation%C2%AEHome-Private-Spaces">
+        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Private%20Space%20List-03c1b1"
+            alt="PlayStation®Home Private Space List"></a>
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A7-%7C-%F0%9F%95%B7%EF%B8%8F-Notice-critical-bugs-in-PlayStation%C2%AEHome%3F-Here-is-how-you-can-report-them-to-the-Destination-Home-Team!">
+        <img src="https://img.shields.io/badge/-%F0%9F%95%B7%EF%B8%8F%20Notice%20critical%20bugs%20in%20PlayStation%26Home%3F%20Here%20is%20how%20you%20can%20report%20them%20to%20the%20Destination%20Home%20Team!-f4732d"
+       alt="Notice critical bugs in PlayStation®Home?"></a>
+       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0-%7C-Prerequisites-for-RPCS3-users">
+        <img src="https://img.shields.io/badge/-Prerequisites%20for%20PlayStation%203%20users-df7578"
+            alt="Prerequisites for PlayStation 3 users"></a>           
+  <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9-%7C-How-to-play-PlayStation%C2%AEHome-on-PS3">
+        <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20PS3-00273a"
+            alt="How to play PlayStation®Home on PS3"></a>
+    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0-%7C-Prerequisites-for-RPCS3-users">
+        <img src="https://img.shields.io/badge/-Prerequisites%20for%20RPCS3-5b4dc3"
+            alt="Prerequisites for RPCS3"></a>
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0%E2%85%A0-%7C-How-to-play-PlayStation%C2%AEHome-on-RPCS3">
+        <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20RPCS3-5b4dc3"
+            alt="How to play PlayStation®Home on RPCS3"></a>
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4-%7C-%F0%9F%86%98-How-can-you-help-out-the-Destination-Home-Team%3F">
+        <img src="https://img.shields.io/badge/-How%20can%20you%20help%20out%20the%20Destination%20Home%20Team%3F-72b3783"
+            alt="How can you help out the Destination Home Team?"></a>
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4%E2%85%A0%E2%85%A0-%7C-Meet-The-Destination-Home-Development-Team">
+        <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20Meet%20The%20Destination%20Home%20Development%20Team-583cc2"
+           alt="Meet The Destination Home Development Team"></a>
+        <a href="https://github.com/DestinationHome/Destination-Home-Online#-destination-home-discord-cache-bot">
+        <img src="https://img.shields.io/badge/-Destination%20Home%20Cache%20Discord%20Bot-409591"
+            alt="Destination Home Discord Cache Bot"></a> 
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4%E2%85%A0-%7C-Contact-Me!">
+        <img src="https://img.shields.io/badge/-Contact%20Me!-b32940"
+            alt="Contact Me!"></a>
+       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9D%A4%EF%B8%8F-%7C--Join-Check-out-our-social-platforms">
+        <img src="https://img.shields.io/badge/-%E2%9D%A4%EF%B8%8F%20Join%2FCheck%20out%20our%20social%20platforms-001eff"
+            alt="❤️ Join/Check out our social platforms"></a>
+       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9A%96%EF%B8%8F-%7C-Legal-Information">
+        <img src="https://img.shields.io/badge/-Legal%20Information-29190f"
+            alt="Legal Information"></a>
+
+# Quickstart: 
+
+![DestinationsMap_031512_Background](https://user-images.githubusercontent.com/67494727/177428540-47bdd5ca-5e58-4a6c-b228-6a44272c937c.png)
+
+To keep this **README.md** file concise & straightforward I decided to make an official dedicated [wiki](https://github.com/DestinationHome/Destination-Home-Online/wiki) which has a full write-up on how users can access **PlayStation®Home** online with our custom server solution. To download our latest online client builds please check out the release page [here](https://github.com/DestinationHome/Destination-Home-Online/releases). Down below here are the minimum requirements you'll need for this process.
+
+| Requirements For PS3: | Requirements For RPCS3: |
+| ------------- | ------------- |
+| A [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3). | A PC that supports the [recommended hardware requirements](https://rpcs3.net/quickstart) for running the emulator.   |
+| A [**PlayStation™Network** Account](https://www.playstation.com/en-us/playstation-network/). | [**RPCN** Account](https://wiki.rpcs3.net/index.php?title=Help:Netplay). |
+| The latest **PlayStation®Home** Online client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). | The latest custom RPCS3 **PlayStation®Home** Client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). |
+| An active network connection. | An active network connection. |
+
  
 # 📣 Current Status of Destination Home Online Revival Servers/Services:
 
@@ -389,86 +470,6 @@ Welcome to the official guide on how users can re-experience [**PlayStation®Hom
 # <h1 align="center">🌐 Destination Home Public DNS Setting: **52.86.120.101**</h1>
 
 ![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
-
-<h1 align="center">📖 Table of Contents | Destination Home Online Wiki 📖</h1>
-
-<p align="center">
-      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A0-%7C-Disclaimers">
-        <img src="https://img.shields.io/badge/-Disclaimers-ff0018"
-            alt="Diclaimers"></a>
-       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-%7C-Destination-Home-Online-Community-Code-of-Conduct">
-        <img src="https://img.shields.io/badge/-Destination%20Home%20Online%20Community%20Code%20of%20Conduct-21cb69"
-            alt="Destination Home Online Community Code of Conduct"></a>
-     <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A2-%7C-Destination-Home-Online-FAQ-(Frequently-Asked-Questions)">
-        <img src="https://img.shields.io/badge/-Destination%20Home%20Online%20FAQ-0995d3"
-            alt="Destination Home Online FAQ"></a>
-    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A3-%7C-Important-terminologies">
-        <img src="https://img.shields.io/badge/-Important%20Terminologies-1d5dd2"
-            alt="Important terminologies!"></a>
-   <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A4-%7C-Working-Services-&-Features">
-        <img src="https://img.shields.io/badge/%E2%9C%94-Working%20Services%20%26%20Features-lightgrey"
-            alt="Working Services & Functions"></a>
-      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A5-%7C-Missing-Services-&-Functions">
-        <img src="https://img.shields.io/badge/-Missing%20Services%2FFunctions-e99c23"
-            alt="Missing services/functions"></a>
-      <a href="https://github.com/DestinationHome/Destination-Home-Online/edit/main/README.md#-playstationhome-rewards-database">
-        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Rewards%20Database-%23f4c430"
-            alt="PlayStation®Home Rewards Database"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online#%EF%B8%8F-playstationhome-minigame-compatibility-list">
-        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Minigame%20Compatibility%20List%20-fcf414"
-            alt="PlayStation®Home Minigame Compatibility List"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0%E2%85%A0%E2%85%A0-%7C-PlayStation%C2%AEHome-Public-Spaces">
-        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Public%20Space%20List-750de0"
-            alt="PlayStation®Home Public Space List"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A3-%7C-PlayStation%C2%AEHome-Private-Spaces">
-        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Private%20Space%20List-03c1b1"
-            alt="PlayStation®Home Private Space List"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A7-%7C-%F0%9F%95%B7%EF%B8%8F-Notice-critical-bugs-in-PlayStation%C2%AEHome%3F-Here-is-how-you-can-report-them-to-the-Destination-Home-Team!">
-        <img src="https://img.shields.io/badge/-%F0%9F%95%B7%EF%B8%8F%20Notice%20critical%20bugs%20in%20PlayStation%26Home%3F%20Here%20is%20how%20you%20can%20report%20them%20to%20the%20Destination%20Home%20Team!-f4732d"
-       alt="Notice critical bugs in PlayStation®Home?"></a>
-       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0-%7C-Prerequisites-for-RPCS3-users">
-        <img src="https://img.shields.io/badge/-Prerequisites%20for%20PlayStation%203%20users-df7578"
-            alt="Prerequisites for PlayStation 3 users"></a>           
-  <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9-%7C-How-to-play-PlayStation%C2%AEHome-on-PS3">
-        <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20PS3-00273a"
-            alt="How to play PlayStation®Home on PS3"></a>
-    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0-%7C-Prerequisites-for-RPCS3-users">
-        <img src="https://img.shields.io/badge/-Prerequisites%20for%20RPCS3-5b4dc3"
-            alt="Prerequisites for RPCS3"></a>
-      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0%E2%85%A0-%7C-How-to-play-PlayStation%C2%AEHome-on-RPCS3">
-        <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20RPCS3-5b4dc3"
-            alt="How to play PlayStation®Home on RPCS3"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4-%7C-%F0%9F%86%98-How-can-you-help-out-the-Destination-Home-Team%3F">
-        <img src="https://img.shields.io/badge/-How%20can%20you%20help%20out%20the%20Destination%20Home%20Team%3F-72b3783"
-            alt="How can you help out the Destination Home Team?"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4%E2%85%A0%E2%85%A0-%7C-Meet-The-Destination-Home-Development-Team">
-        <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20Meet%20The%20Destination%20Home%20Development%20Team-583cc2"
-           alt="Meet The Destination Home Development Team"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online#-destination-home-discord-cache-bot">
-        <img src="https://img.shields.io/badge/-Destination%20Home%20Cache%20Discord%20Bot-409591"
-            alt="Destination Home Discord Cache Bot"></a> 
-      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4%E2%85%A0-%7C-Contact-Me!">
-        <img src="https://img.shields.io/badge/-Contact%20Me!-b32940"
-            alt="Contact Me!"></a>
-       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9D%A4%EF%B8%8F-%7C--Join-Check-out-our-social-platforms">
-        <img src="https://img.shields.io/badge/-%E2%9D%A4%EF%B8%8F%20Join%2FCheck%20out%20our%20social%20platforms-001eff"
-            alt="❤️ Join/Check out our social platforms"></a>
-       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9A%96%EF%B8%8F-%7C-Legal-Information">
-        <img src="https://img.shields.io/badge/-Legal%20Information-29190f"
-            alt="Legal Information"></a>
-
-# Quickstart: 
-
-![DestinationsMap_031512_Background](https://user-images.githubusercontent.com/67494727/177428540-47bdd5ca-5e58-4a6c-b228-6a44272c937c.png)
-
-To keep this **README.md** file concise & straightforward I decided to make an official dedicated [wiki](https://github.com/DestinationHome/Destination-Home-Online/wiki) which has a full write-up on how users can access **PlayStation®Home** online with our custom server solution. To download our latest online client builds please check out the release page [here](https://github.com/DestinationHome/Destination-Home-Online/releases). Down below here are the minimum requirements you'll need for this process.
-
-| Requirements For PS3: | Requirements For RPCS3: |
-| ------------- | ------------- |
-| A [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3). | A PC that supports the [recommended hardware requirements](https://rpcs3.net/quickstart) for running the emulator.   |
-| A [**PlayStation™Network** Account](https://www.playstation.com/en-us/playstation-network/). | [**RPCN** Account](https://wiki.rpcs3.net/index.php?title=Help:Netplay). |
-| The latest **PlayStation®Home** Online client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). | The latest custom RPCS3 **PlayStation®Home** Client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). |
-| An active network connection. | An active network connection. |
 
 # 🟢 Working services & features:
 
