@@ -4,7 +4,7 @@
 
 # <h1 align="center">**Welcome Back to PlayStation®Home!**</h1>
 <p align="center">	
-<img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20II-orange">
+<img src="https://img.shields.io/badge/Testing%20Period-Open%20Beta%20Phase%20II-green">
 </a>
 <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Destination%20Home%20Public%20DNS%20Setting%3A%2052.86.120.101-0995d3"
     alt="🌐 Destination Home Public DNS Setting: 52.86.120.101 | Get Started by following our quick-start guide"></a>
