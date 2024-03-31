@@ -993,13 +993,3 @@ We are not affiliated with **Sony Interactive Entertainment (SIE)** or any other
   
  ℹ️ | For users who want to translate this **README** page in order to support our ever-developing community you can contact me via [Twitter](https://twitter.com/NagatoRevenge) for more information! 
 :---: | :---  
-
-# X Brief Synopsis:
-
-Welcome to the official guide on how users can re-experience [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [**Github**](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager [**Figment**](https://github.com/PSHFigment) will post the latest news in regards to new Home updates. For all things related to **PlayStation®Home**, we have created a comprehensive composition [Wiki system](https://github.com/DestinationHome/Destination-Home-Online/wiki) for this repo, to document how users can access our services.
-
-![Destination Home Online Official Wiki](https://user-images.githubusercontent.com/67494727/167228438-dc27564a-05d6-49ae-814a-936b6708f863.png)
-
-# <h1 align="center">🌐 ? Destination Home Public DNS Setting: **52.86.120.101**</h1>
-
-![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
